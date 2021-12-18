@@ -591,7 +591,8 @@ header button:hover {
 }
 
 label[for="form-email"] {
-  display: none;
+  font-size: 0;
+  position: absolute;
 }
 
 .foot input[type="submit"] {
