@@ -590,6 +590,10 @@ header button:hover {
   border-radius: calc(8em / 16);
 }
 
+label[for="form-email"] {
+  display: none;
+}
+
 .foot input[type="submit"] {
   color: white;
   background: var(--pink);
